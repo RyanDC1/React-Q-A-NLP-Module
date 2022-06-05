@@ -1,0 +1,41 @@
+
+
+.qa-viewer-container {
+  margin: 120px;
+}
+.qna-module-container {
+  margin-top: 24px;
+}
+
+.qa-list {
+  overflow-y: auto;
+  height: calc(100vh - 545px);
+  scroll-snap-type: y proximity;
+}
+
+.qa-list li.ant-list-item:last-child{
+  scroll-snap-align: end;
+}
+
+.qa-list li.ant-list-item:nth-child(even) {
+  background: #f2f2f2;
+}
+
+.qa-list li.ant-list-item {
+  padding: 16px 8px;
+}
+
+.all-responses {
+  padding: 8px 24px;
+  color: #999999;
+}
+
+.qa-list .ant-list-item-meta-description {
+  color: #505050;
+}
+
+.collabsable-responses .ant-collapse-header {
+  font-size: 13px;
+  color: #1890ff !important;
+  padding-left: 0px !important;
+}
