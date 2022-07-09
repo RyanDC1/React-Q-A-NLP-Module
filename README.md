@@ -7,7 +7,7 @@ This module will use the BERT (Bidirectional Encoder Representations from Transf
 <br><br>
 
 # Working
-BERT (Bidirectional Encoder Representations from Transformers) is based on a deep learning model called Transformers. As opposed to processing each word in a sentence sequentially, the transformer processes the entire sentence at once allowing it to learn the context of a giver word. This mechanism is known as self attention.
+BERT (Bidirectional Encoder Representations from Transformers) is based on a deep learning model called Transformers. As opposed to processing each word in a sentence sequentially, the BERT model processes the entire sentence at once allowing it to learn the context of a given word.
 
 # Technologies Used<br>
 **React** - open-source front-end JavaScript library.<br>
