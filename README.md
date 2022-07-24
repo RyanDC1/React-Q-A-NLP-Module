@@ -38,4 +38,4 @@ Transformers Explained - https://daleonai.com/transformers-explained
 
 # Screenshots 
 A few screenshots of the application.
-![](https://github.com/RyanDC1/React-QnA-NLP-Module/blob/master/src/Assets/Images/Demo-1.png)
+![](/src/Assets/Images/Demo-1.png?token=GHSAT0AAAAAABW42WX7M3JD72SV27ECENFSYW5KFKQ)
